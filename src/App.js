@@ -9,7 +9,8 @@ import DriveReg from './Components/DriveReg';
 import DriverDashboard from './Components/DriverDashboard';
 // import DriveSidebar from './Components/DriveSidebar';
 import {
-  BrowserRouter as Router,
+  
+  HashRouter as Router,
   Switch,
   Route,
   
